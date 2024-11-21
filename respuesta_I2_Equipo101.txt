@@ -36,6 +36,6 @@ git push origin main
 
 5) 
 git remote add beta https://github.com/Fresonee/TP_SO_i2_101.git
-git fetch beta
-git merge beta/main
-git push origin main
+git fetch
+git merge main
+git push 
