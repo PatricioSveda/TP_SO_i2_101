@@ -1,6 +1,7 @@
 Nombre y Apellido
 - Juan Francisco Fresone
 - Patricio Sveda
+-Orlando Diaz
 
 Respuestas:
 
